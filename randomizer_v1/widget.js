@@ -59,7 +59,7 @@ const listOfChallenges = [
   "Pill Anxiety",
   "Pyromaniac",
   "Quirk Forgiveness",
-  //"Realtor",
+  "Realtor",
   "Restless",
   "Scophophobia",
   "Slob",
